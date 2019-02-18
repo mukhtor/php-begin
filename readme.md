@@ -1,2 +1,3 @@
 #PHP Begin
-LAnguage PHP
+Language PHP
+Author: Mukhtor 
